@@ -55,7 +55,7 @@ Resources:
 What next? Workflows; CAzy, KEGG; etc.
 
 <!-- See [the complete table of contents](toc.html) -->
-
+ 
 ## Technical information
 
 The github repository for this workshop is public at
